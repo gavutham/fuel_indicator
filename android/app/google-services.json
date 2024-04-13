@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830122095079",
+    "project_id": "petrol-indicator",
+    "storage_bucket": "petrol-indicator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830122095079:android:fc3eb2ad9d287da5098d42",
+        "android_client_info": {
+          "package_name": "com.example.petrol_indicator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpG0-Xo25gct92EFW9TOAjxtafXQkGTQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
